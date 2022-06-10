@@ -84,7 +84,7 @@ The followings are some of our representative research papers.
 |TD4DA|[Entropy-based Training Data Selection for Domain Adaptation](https://aclanthology.org/C12-2116/)|--|Chinese, English|
 |GM4DA|[Using a goodness measurement for domain adaptation: A case study on Chinese word segmentation](https://aclanthology.org/L12-1580/)|--|Chinese|
 
-## Language Resource Construction
+## Language Resource
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
