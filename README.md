@@ -25,6 +25,7 @@ The followings are some of our representative research papers.
 |Name|Paper|Code|Language|
 |----|----|----|----|
 |SAPar|[Improving Constituency Parsing with Span Attention](https://aclanthology.org/2020.findings-emnlp.153/)|[link](https://github.com/cuhksz-nlp/SAPar)|Arabic, Chinese, English|
+|NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/cuhksz-nlp/NeST-CCG)|English|
 
 
 ## Semantic Role Labeling
