@@ -4,7 +4,7 @@ The followings are some of our representative research papers.
 
 ## Word Embedding and Pre-trained LM
 
-|Conference|Paper|Code|Language|
+|Name|Paper|Code|Language|
 |----|----|----|----|
 |DSG|[Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings](https://aclanthology.org/N18-2028/)|[link](https://ai.tencent.com/ailab/nlp/en/embedding.html)|Chinese|
 |ZEN 1.0|[ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](https://aclanthology.org/2020.findings-emnlp.425/)|[link](https://github.com/sinovation/ZEN)|Chinese|
