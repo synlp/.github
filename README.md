@@ -61,6 +61,7 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |Pronoun-Coref|[Incorporating Context and External Knowledge for Pronoun Coreference Resolution](https://aclanthology.org/N19-1093/)|[link](https://github.com/HKUST-KnowComp/Pronoun-Coref)|English|
 |Visual_PCR|[What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://aclanthology.org/D19-1516/)|[link](https://github.com/HKUST-KnowComp/Visual_PCR)|English|
 
+[Pronoun-Coref](https://github.com/HKUST-KnowComp/Pronoun-Coref) is the best model to start with.
 
 ## Aspect-level Sentiment Analysis
 
@@ -72,6 +73,8 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |DGSA|[Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://aclanthology.org/2020.coling-main.24/)|[link](https://github.com/cuhksz-nlp/dgsa)|English|
 |ASA-TM|[Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321/)|[link](https://github.com/cuhksz-nlp/ASA-TM)|English|
 
+For end-to-end aspect-level sentiment analysis, please use [DGSA](https://github.com/cuhksz-nlp/dgsa); for aspect-level sentiment analysis with the give n aspect terms, we recommend you to use [ASA-TGCN](https://github.com/cuhksz-nlp/ASA-TGCN).
+
 ## Relation Extraction
 
 |Name|Paper|Code|Language|
@@ -82,6 +85,8 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |RE-NGCN|[Relation Extraction with Word Graphs from N-grams](https://aclanthology.org/2021.emnlp-main.228/)|[link](https://github.com/cuhksz-nlp/RE-NGCN)|English|
 |RE-AMT|[Enhancing Relation Extraction via Adversarial Multi-task Learning](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.666.pdf)|[link](https://github.com/synlp/RE-AMT)|English|
 
+[RE-AGCN](https://github.com/cuhksz-nlp/re-agcn) would be a good model to start with.
+
 ## Domain Adaptation
 
 |Name|Paper|Code|Language|
@@ -91,6 +96,8 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |DPM4DA|[Domain Adaptation for Disease Phrase Matching with Adversarial Networks](https://aclanthology.org/W18-2315/)|--|English|
 |TD4DA|[Entropy-based Training Data Selection for Domain Adaptation](https://aclanthology.org/C12-2116/)|--|Chinese, English|
 |GM4DA|[Using a goodness measurement for domain adaptation: A case study on Chinese word segmentation](https://aclanthology.org/L12-1580/)|--|Chinese|
+
+[T-DNA](https://github.com/shizhediao/t-dna) is recommended because it uses the state-of-the-art Transformer architecture.
 
 ## Language Resource
 
