@@ -13,7 +13,8 @@ The followings are some of our representative research papers.
 |ZEN 2.0|[ZEN 2.0: Continue Training and Adaption for N-gram Enhanced Text Encoders](https://arxiv.org/abs/2105.01279)|[link](https://github.com/sinovation/ZEN2)|Arabic, Chinese|
 |T-DNA|[Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation](https://aclanthology.org/2021.acl-long.259/)|[link](https://github.com/shizhediao/t-dna)|English|
 
-If you are looking for powerful pre-trained **word embeddings** for Chinese, please visit [DSG](https://ai.tencent.com/ailab/nlp/en/embedding.html); if you are interested in outstanding pre-trained **language models** for Chinese or Arabic, please visit [ZEN 2.0](https://github.com/sinovation/ZEN2).
+**Model Recommendation**: [DSG](https://ai.tencent.com/ailab/nlp/en/embedding.html) provides 200-dimensional word embeddings for around 8M Chinese words.
+[ZEN 2.0](https://github.com/sinovation/ZEN2) provides large pre-trained language models (the large version uses 24 layers of self-attentions with 1024 dimensional hidden vectors) for Arabic and Chinese. The models are trained on large corpus and enhance text modeling through n-grams.
 
 ## Chinese Word Segmentation and POS Tagging
 
@@ -24,8 +25,7 @@ If you are looking for powerful pre-trained **word embeddings** for Chinese, ple
 |McASP|[Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](https://aclanthology.org/2020.coling-main.187/)|[link](https://github.com/cuhksz-nlp/McASP)|Chinese|
 |GCASeg|[Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376/)|[link](https://github.com/cuhksz-nlp/GCASeg)|Chinese|
 
-If you are looking for state-of-the-art Chinese word segmentor, [WMSeg](https://github.com/SVAIGBA/WMSeg) would be the best choice; if you are looking for 
-the best model for joint Chinese word segmentation and POS tagging, [McASP](https://github.com/cuhksz-nlp/McASP) would be the best the start with.
+**Model Recommendation**: [WMSeg](https://github.com/SVAIGBA/WMSeg) and [McASP](https://github.com/cuhksz-nlp/McASP) contains easy-to-use CWS and joint CWS and POS tagging models that are based on BERT and ZEN. Models trained on different datasets are available for downloading.
 
 ## Parsing
 
@@ -34,7 +34,8 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |SAPar|[Improving Constituency Parsing with Span Attention](https://aclanthology.org/2020.findings-emnlp.153/)|[link](https://github.com/cuhksz-nlp/SAPar)|Arabic, Chinese, English|
 |NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/cuhksz-nlp/NeST-CCG)|English|
 
-[SAPar](https://github.com/cuhksz-nlp/SAPar) is the state-of-the-art constituent parser for Arabic, Chinese, and English; [NeST-CCG](https://github.com/cuhksz-nlp/NeST-CCG) offers the best-performing CCG supertager.
+**Model Recommendation**: [SAPar](https://github.com/cuhksz-nlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English; 
+[NeST-CCG](https://github.com/cuhksz-nlp/NeST-CCG) offers BERT-based models for English CCG supertagging. Both repositories provide pre-trained models and they are easy-to-use.
 
 ## Semantic Role Labeling
 
@@ -51,7 +52,7 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |AESINER|[Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](https://aclanthology.org/2020.findings-emnlp.378/)|[link](https://github.com/cuhksz-nlp/AESINER)|Chinese,English|
 |BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/cuhk-nlp/BioKMNER)|English|
 
-[SANER](https://github.com/cuhksz-nlp/SANER) is our best NER model to start with and it provides state-of-the-art NER models for Chinese and English in the general domain; if you want to try models enhanced by syntactic information, please use [AESINER](https://github.com/cuhksz-nlp/AESINER).
+**Model Recommendation**: [SANER](https://github.com/cuhksz-nlp/SANER) use pre-trained language models and word embeddings in text modeling, with the semantic of similar words are used to enhance text understanding. Pre-trained models are available for downloading and they are easy-to-use.
 
 ## Coreference Resolution
 
@@ -61,7 +62,7 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |Pronoun-Coref|[Incorporating Context and External Knowledge for Pronoun Coreference Resolution](https://aclanthology.org/N19-1093/)|[link](https://github.com/HKUST-KnowComp/Pronoun-Coref)|English|
 |Visual_PCR|[What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](https://aclanthology.org/D19-1516/)|[link](https://github.com/HKUST-KnowComp/Visual_PCR)|English|
 
-[Pronoun-Coref](https://github.com/HKUST-KnowComp/Pronoun-Coref) is the best model to start with.
+**Model Recommendation**: [Pronoun-Coref](https://github.com/HKUST-KnowComp/Pronoun-Coref) uses GloVe and ELMo embeddings in text modeling. The model is light and easy-to-use.
 
 ## Aspect-level Sentiment Analysis
 
@@ -73,7 +74,7 @@ the best model for joint Chinese word segmentation and POS tagging, [McASP](http
 |DGSA|[Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://aclanthology.org/2020.coling-main.24/)|[link](https://github.com/cuhksz-nlp/dgsa)|English|
 |ASA-TM|[Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321/)|[link](https://github.com/cuhksz-nlp/ASA-TM)|English|
 
-For end-to-end aspect-level sentiment analysis, please use [DGSA](https://github.com/cuhksz-nlp/dgsa); for aspect-level sentiment analysis with the give n aspect terms, we recommend you to use [ASA-TGCN](https://github.com/cuhksz-nlp/ASA-TGCN).
+**Model Recommendation**: [DGSA](https://github.com/cuhksz-nlp/dgsa) provides an end-to-end solution (the model are based on BERT) for aspect-level sentiment analysis, which can be directly used to process raw text.
 
 ## Relation Extraction
 
@@ -85,7 +86,7 @@ For end-to-end aspect-level sentiment analysis, please use [DGSA](https://github
 |RE-NGCN|[Relation Extraction with Word Graphs from N-grams](https://aclanthology.org/2021.emnlp-main.228/)|[link](https://github.com/cuhksz-nlp/RE-NGCN)|English|
 |RE-AMT|[Enhancing Relation Extraction via Adversarial Multi-task Learning](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.666.pdf)|[link](https://github.com/synlp/RE-AMT)|English|
 
-[RE-AGCN](https://github.com/cuhksz-nlp/re-agcn) would be a good model to start with.
+**Model Recommendation**: [RE-AGCN](https://github.com/cuhksz-nlp/re-agcn) provides BERT-based models for relation extraction, where the model leverages the auto-parsed dependency tree of the input text to have a better understanding to the text.
 
 ## Domain Adaptation
 
@@ -97,7 +98,7 @@ For end-to-end aspect-level sentiment analysis, please use [DGSA](https://github
 |TD4DA|[Entropy-based Training Data Selection for Domain Adaptation](https://aclanthology.org/C12-2116/)|--|Chinese, English|
 |GM4DA|[Using a goodness measurement for domain adaptation: A case study on Chinese word segmentation](https://aclanthology.org/L12-1580/)|--|Chinese|
 
-[T-DNA](https://github.com/shizhediao/t-dna) is recommended because it uses the state-of-the-art Transformer architecture.
+**Model Recommendation**: [T-DNA](https://github.com/shizhediao/t-dna) is a Transformer-based language model for domain adaptation, which can be used easily.
 
 ## Language Resource
 
