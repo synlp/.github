@@ -35,8 +35,8 @@ The followings are some of our representative research papers.
 |DMPar|[Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing](https://aclanthology.org/2022.coling-1.483/)|[link](https://github.com/synlp/DMPar)|English|
 |NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/cuhksz-nlp/NeST-CCG)|English|
 
-**Model Recommendation**: [SAPar](https://github.com/cuhksz-nlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English; 
-[DMPar](https://github.com/synlp/DMPar) provides code for dependency parsing;  
+**Model Recommendation**: [SAPar](https://github.com/cuhksz-nlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English;
+[DMPar](https://github.com/synlp/DMPar) provides code for dependency parsing;
 [NeST-CCG](https://github.com/cuhksz-nlp/NeST-CCG) offers BERT-based models for English CCG supertagging. Both repositories provide pre-trained models and they are easy-to-use.
 
 ## Semantic Role Labeling
