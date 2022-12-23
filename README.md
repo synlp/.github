@@ -82,13 +82,13 @@ The followings are some of our representative research papers.
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
-|RE-AGCN|[Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks](https://aclanthology.org/2021.acl-long.344/)|[link](https://github.com/cuhksz-nlp/re-agcn)|English|
-|RE-TAMM|[Relation Extraction with Type-aware Map Memories of Word Dependencies](https://aclanthology.org/2021.findings-acl.221/)|[link](https://github.com/cuhksz-nlp/re-tamm)|English|
+|RE-AGCN|[Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks](https://aclanthology.org/2021.acl-long.344/)|[link](https://github.com/synlp/RE-AGCN)|English|
+|RE-TAMM|[Relation Extraction with Type-aware Map Memories of Word Dependencies](https://aclanthology.org/2021.findings-acl.221/)|[link](https://github.com/synlp/RE-TaMM)|English|
 |RE-DMP|[Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking](https://aclanthology.org/2022.findings-acl.147/)|[link](https://github.com/synlp/RE-DMP)|English|
 |RE-NGCN|[Relation Extraction with Word Graphs from N-grams](https://aclanthology.org/2021.emnlp-main.228/)|[link](https://github.com/cuhksz-nlp/RE-NGCN)|English|
 |RE-AMT|[Enhancing Relation Extraction via Adversarial Multi-task Learning](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.666.pdf)|[link](https://github.com/synlp/RE-AMT)|English|
 
-**Model Recommendation**: [RE-AGCN](https://github.com/cuhksz-nlp/re-agcn) provides BERT-based models for relation extraction, where the model leverages the auto-parsed dependency tree of the input text to have a better understanding to the text.
+**Model Recommendation**: [RE-AGCN](https://github.com/synlp/RE-AGCN) provides BERT-based models for relation extraction, where the model leverages the auto-parsed dependency tree of the input text to have a better understanding to the text.
 
 ## Domain Adaptation
 
