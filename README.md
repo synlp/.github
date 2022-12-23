@@ -52,7 +52,7 @@ The followings are some of our representative research papers.
 |----|----|----|----|
 |SANER|[Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://aclanthology.org/2020.emnlp-main.107/)|[link](https://github.com/synlp/SANER)|Chinese,English|
 |AESINER|[Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](https://aclanthology.org/2020.findings-emnlp.378/)|[link](https://github.com/cuhksz-nlp/AESINER)|Chinese,English|
-|BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/cuhk-nlp/BioKMNER)|English|
+|BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/synlp/BioKMNER)|English|
 
 **Model Recommendation**: [SANER](https://github.com/cuhksz-nlp/SANER) use pre-trained language models and word embeddings in text modeling, with the semantic of similar words are used to enhance text understanding. Pre-trained models are available for downloading and they are easy-to-use.
 
@@ -107,7 +107,7 @@ The followings are some of our representative research papers.
 |Name|Paper|Code|Language|
 |----|----|----|----|
 |HET-MC|[Summarizing Medical Conversations via Identifying Important Utterances](https://www.aclweb.org/anthology/2020.coling-main.63/)|[link](https://github.com/synlp/HET-MC)|Chinese|
-|BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/cuhk-nlp/BioKMNER)|English|
+|BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/synlp/BioKMNER)|English|
 
 ## Language Resource
 
