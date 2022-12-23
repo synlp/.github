@@ -70,11 +70,11 @@ The followings are some of our representative research papers.
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
-|ASA-TGCN|[Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble](https://aclanthology.org/2021.naacl-main.231/)|[link](https://github.com/cuhksz-nlp/ASA-TGCN)|English|
-|ASA-WD|[Enhancing Aspect-level Sentiment Analysis with Word Dependencies](https://aclanthology.org/2021.eacl-main.326/)|[link](https://github.com/cuhksz-nlp/asa-wd)|English|
+|ASA-TGCN|[Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble](https://aclanthology.org/2021.naacl-main.231/)|[link](https://github.com/synlp/ASA-TGCN)|English|
+|ASA-WD|[Enhancing Aspect-level Sentiment Analysis with Word Dependencies](https://aclanthology.org/2021.eacl-main.326/)|[link](https://github.com/synlp/ASA-WD)|English|
 |ASA-CLD|[Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.760.pdf)|[link]()|English|
 |DGSA|[Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://aclanthology.org/2020.coling-main.24/)|[link](https://github.com/synlp/DGSA)|English|
-|ASA-TM|[Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321/)|[link](https://github.com/cuhksz-nlp/ASA-TM)|English|
+|ASA-TM|[Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321/)|[link](https://github.com/synlp/ASA-TM)|English|
 
 **Model Recommendation**: [DGSA](https://github.com/synlp/DGSA) provides an end-to-end solution (the model are based on BERT) for aspect-level sentiment analysis, which can be directly used to process raw text.
 
