@@ -31,13 +31,13 @@ The followings are some of our representative research papers.
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
-|SAPar|[Improving Constituency Parsing with Span Attention](https://aclanthology.org/2020.findings-emnlp.153/)|[link](https://github.com/cuhksz-nlp/SAPar)|Arabic, Chinese, English|
+|SAPar|[Improving Constituency Parsing with Span Attention](https://aclanthology.org/2020.findings-emnlp.153/)|[link](https://github.com/synlp/SAPar)|Arabic, Chinese, English|
 |DMPar|[Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing](https://aclanthology.org/2022.coling-1.483/)|[link](https://github.com/synlp/DMPar)|English|
 |NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/synlp/NeST-CCG)|English|
 
-**Model Recommendation**: [SAPar](https://github.com/cuhksz-nlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English;
+**Model Recommendation**: [SAPar](https://github.com/synlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English;
 [DMPar](https://github.com/synlp/DMPar) provides code for dependency parsing;
-[NeST-CCG](https://github.com/cuhksz-nlp/NeST-CCG) offers BERT-based models for English CCG supertagging. Both repositories provide pre-trained models and they are easy-to-use.
+[NeST-CCG](https://github.com/synlp/NeST-CCG) offers BERT-based models for English CCG supertagging. Both repositories provide pre-trained models and they are easy-to-use.
 
 ## Semantic Role Labeling
 
