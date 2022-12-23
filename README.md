@@ -102,6 +102,13 @@ The followings are some of our representative research papers.
 
 **Model Recommendation**: [T-DNA](https://github.com/shizhediao/t-dna) is a Transformer-based language model for domain adaptation, which can be used easily.
 
+## Medical NER
+
+|Name|Paper|Code|Language|
+|----|----|----|----|
+|HET-MC|[Summarizing Medical Conversations via Identifying Important Utterances](https://www.aclweb.org/anthology/2020.coling-main.63/)|[link](https://github.com/synlp/HET-MC)|Chinese|
+|BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/cuhk-nlp/BioKMNER)|English|
+
 ## Language Resource
 
 |Name|Paper|Code|Language|
