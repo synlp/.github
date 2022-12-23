@@ -20,12 +20,12 @@ The followings are some of our representative research papers.
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
-|WMSeg|[Improving Chinese Word Segmentation with Wordhood Memory Networks](https://www.aclweb.org/anthology/2020.acl-main.734/)|[link](https://github.com/SVAIGBA/WMSeg)|Chinese|
-|TwASP|[Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge](https://aclanthology.org/2020.acl-main.735/)|[link](https://github.com/SVAIGBA/TwASP)|Chinese|
-|McASP|[Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](https://aclanthology.org/2020.coling-main.187/)|[link](https://github.com/cuhksz-nlp/McASP)|Chinese|
-|GCASeg|[Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376/)|[link](https://github.com/cuhksz-nlp/GCASeg)|Chinese|
+|WMSeg|[Improving Chinese Word Segmentation with Wordhood Memory Networks](https://www.aclweb.org/anthology/2020.acl-main.734/)|[link](https://github.com/synlp/WMSeg)|Chinese|
+|TwASP|[Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge](https://aclanthology.org/2020.acl-main.735/)|[link](https://github.com/synlp/TwASP)|Chinese|
+|McASP|[Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](https://aclanthology.org/2020.coling-main.187/)|[link](https://github.com/synlp/McASP)|Chinese|
+|GCASeg|[Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376/)|[link](https://github.com/synlp/GCASeg)|Chinese|
 
-**Model Recommendation**: [WMSeg](https://github.com/SVAIGBA/WMSeg) and [McASP](https://github.com/cuhksz-nlp/McASP) contains easy-to-use CWS and joint CWS and POS tagging models that are based on BERT and ZEN. Models trained on different datasets are available for downloading.
+**Model Recommendation**: [WMSeg](https://github.com/synlp/WMSeg) and [McASP](https://github.com/synlp/McASP) contains easy-to-use CWS and joint CWS and POS tagging models that are based on BERT and ZEN. Models trained on different datasets are available for downloading.
 
 ## Parsing
 
@@ -33,7 +33,7 @@ The followings are some of our representative research papers.
 |----|----|----|----|
 |SAPar|[Improving Constituency Parsing with Span Attention](https://aclanthology.org/2020.findings-emnlp.153/)|[link](https://github.com/cuhksz-nlp/SAPar)|Arabic, Chinese, English|
 |DMPar|[Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing](https://aclanthology.org/2022.coling-1.483/)|[link](https://github.com/synlp/DMPar)|English|
-|NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/cuhksz-nlp/NeST-CCG)|English|
+|NeST-CCG|[Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://aclanthology.org/2020.emnlp-main.487/)|[link](https://github.com/synlp/NeST-CCG)|English|
 
 **Model Recommendation**: [SAPar](https://github.com/cuhksz-nlp/SAPar) provides constituent parsers (which are based on BERT, XLNet, and ZEN) for Arabic, Chinese, and English;
 [DMPar](https://github.com/synlp/DMPar) provides code for dependency parsing;
@@ -50,7 +50,7 @@ The followings are some of our representative research papers.
 
 |Name|Paper|Code|Language|
 |----|----|----|----|
-|SANER|[Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://aclanthology.org/2020.emnlp-main.107/)|[link](https://github.com/cuhksz-nlp/SANER)|Chinese,English|
+|SANER|[Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://aclanthology.org/2020.emnlp-main.107/)|[link](https://github.com/synlp/SANER)|Chinese,English|
 |AESINER|[Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](https://aclanthology.org/2020.findings-emnlp.378/)|[link](https://github.com/cuhksz-nlp/AESINER)|Chinese,English|
 |BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/cuhk-nlp/BioKMNER)|English|
 
@@ -73,10 +73,10 @@ The followings are some of our representative research papers.
 |ASA-TGCN|[Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble](https://aclanthology.org/2021.naacl-main.231/)|[link](https://github.com/cuhksz-nlp/ASA-TGCN)|English|
 |ASA-WD|[Enhancing Aspect-level Sentiment Analysis with Word Dependencies](https://aclanthology.org/2021.eacl-main.326/)|[link](https://github.com/cuhksz-nlp/asa-wd)|English|
 |ASA-CLD|[Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.760.pdf)|[link]()|English|
-|DGSA|[Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://aclanthology.org/2020.coling-main.24/)|[link](https://github.com/cuhksz-nlp/dgsa)|English|
+|DGSA|[Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://aclanthology.org/2020.coling-main.24/)|[link](https://github.com/synlp/DGSA)|English|
 |ASA-TM|[Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321/)|[link](https://github.com/cuhksz-nlp/ASA-TM)|English|
 
-**Model Recommendation**: [DGSA](https://github.com/cuhksz-nlp/dgsa) provides an end-to-end solution (the model are based on BERT) for aspect-level sentiment analysis, which can be directly used to process raw text.
+**Model Recommendation**: [DGSA](https://github.com/synlp/DGSA) provides an end-to-end solution (the model are based on BERT) for aspect-level sentiment analysis, which can be directly used to process raw text.
 
 ## Relation Extraction
 
