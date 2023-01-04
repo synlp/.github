@@ -109,6 +109,14 @@ The followings are some of our representative research papers.
 |HET-MC|[Summarizing Medical Conversations via Identifying Important Utterances](https://www.aclweb.org/anthology/2020.coling-main.63/)|[link](https://github.com/synlp/HET-MC)|Chinese|
 |BioKMNER|[Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)|[link](https://github.com/synlp/BioKMNER)|English|
 
+## Radiology Report Generation
+
+|Name|Paper|Code|Language|
+|----|----|----|----|
+|R2GenRL|[Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)|[link](https://github.com/synlp/R2GenRL)|English|
+|R2GenCMN|[Cross-modal Memory Networks for Radiology Report Generation](https://aclanthology.org/2021.acl-long.459/)|[link](https://github.com/cuhksz-nlp/R2GenCMN)|English|
+|R2Gen|[Generating Radiology Reports via Memory-driven Transformer](https://aclanthology.org/2020.emnlp-main.112/)|[link](https://github.com/cuhksz-nlp/R2Gen)|English|
+
 ## Language Resource
 
 |Name|Paper|Code|Language|
