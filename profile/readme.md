@@ -1,4 +1,4 @@
-# Welcome to SYNLP !
+# Welcome to Yan Song's NLP Group !
 
 We are a creative and productive team focusing on a wide range of topics in natural language processing (NLP).
 
