@@ -12,9 +12,10 @@ The followings are some of our representative research papers.
 |ZEN 1.0|[ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](https://aclanthology.org/2020.findings-emnlp.425/)|[link](https://github.com/sinovation/ZEN)|Chinese|
 |ZEN 2.0|[ZEN 2.0: Continue Training and Adaption for N-gram Enhanced Text Encoders](https://arxiv.org/abs/2105.01279)|[link](https://github.com/sinovation/ZEN2)|Arabic, Chinese|
 |T-DNA|[Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation](https://aclanthology.org/2021.acl-long.259/)|[link](https://github.com/shizhediao/t-dna)|English|
+|ChiMed-GPT|[ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences](https://arxiv.org/abs/2311.06025)|[link](https://github.com/synlp/ChiMed-GPT)|Chinese, English|
 
 **Model Recommendation**: [DSG](https://ai.tencent.com/ailab/nlp/en/embedding.html) provides 200-dimensional word embeddings for around 8M Chinese words.
-[ZEN 2.0](https://github.com/sinovation/ZEN2) provides large pre-trained language models (the large version uses 24 layers of self-attentions with 1024 dimensional hidden vectors) for Arabic and Chinese. The models are trained on large corpus and enhance text modeling through n-grams.
+[ZEN 2.0](https://github.com/sinovation/ZEN2) provides large pre-trained language models (the large version uses 24 layers of self-attentions with 1024 dimensional hidden vectors) for Arabic and Chinese. The models are trained on large corpus and enhance text modeling through n-grams. [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) is a Chinese medical large language model (LLM) built by continually training Ziya-v2 on Chinese medical data, where pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) are comprehensively performed on it.
 
 ## Chinese Word Segmentation and POS Tagging
 
