@@ -117,6 +117,7 @@ The followings are some of our representative research papers.
 |R2GenRL|[Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)|[link](https://github.com/synlp/R2GenRL)|English|
 |R2GenCMN|[Cross-modal Memory Networks for Radiology Report Generation](https://aclanthology.org/2021.acl-long.459/)|[link](https://github.com/cuhksz-nlp/R2GenCMN)|English|
 |R2Gen|[Generating Radiology Reports via Memory-driven Transformer](https://aclanthology.org/2020.emnlp-main.112/)|[link](https://github.com/cuhksz-nlp/R2Gen)|English|
+|🔥RRG-Review|[A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://github.com/synlp/RRG-Review/)|English|
 
 ## Language Resource
 
