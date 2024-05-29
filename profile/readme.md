@@ -6,9 +6,9 @@ Currently, we are focusing on pre-trained language models, knowledge-driven NLP,
 
 ## 🔥 News 🔥
 
-We recently released our survey paper for radiology report generation titled "[A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://arxiv.org/abs/2311.14199)". If you are interested in more related information or resource, please refer to our GitHub repository [here](https://github.com/synlp/RRG-Review/).
+We recently released a large language model for the Chinese medical domain named [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) (accepted by ACL-2024). Please visit our GitHub Repo for more information.
 
-We recently released a large language model for the Chinese medical domain named [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT). Please visit our GitHub Repo for more information.
+We recently released our survey paper for radiology report generation titled "[A Systematic Review of Deep Learning-based Research on Radiology Report Generation](https://arxiv.org/abs/2311.14199)". If you are interested in more related information or resource, please refer to our GitHub repository [here](https://github.com/synlp/RRG-Review/).
 
 You can find a list of our recent representative research papers [here](https://github.com/synlp/.github).
 
